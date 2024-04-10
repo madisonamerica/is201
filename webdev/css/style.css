@@ -1,0 +1,36 @@
+body{
+    background-color: azure;
+    color: palevioletred;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+ }
+ h5{
+    text-align: center;
+    font-style: italic;
+ }
+ a{
+    color:blanchedalmond
+ }
+ a:visited{
+    color: coral;
+ }
+ img{
+    border: 2px solid pink;
+    padding: 3px;
+    margin: 5px;
+    /* centers stuff*/
+    display: block;
+    margin: auto;
+ }
+ .rizz{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    color: deeppink;
+ }
+ .rizz:hover {
+    font-style: normal;
+    color: blue;
+ }
